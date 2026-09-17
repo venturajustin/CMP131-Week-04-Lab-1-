@@ -1,3 +1,9 @@
+#Justin ventura
+#CMP 131
+#Week 3
+#Lab 1 
+#box office report
+#9/17/26
 movie = input("Enter movie name here:")
 adulttickets = int(input("Enter amount of adult tickets sold:"))
 childtickets = int(input("Enter amount of child tickets sold:"))
