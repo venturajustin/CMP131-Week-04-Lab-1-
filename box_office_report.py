@@ -14,6 +14,9 @@ childtotal = childprice * childtickets
 gross = adulttotal + childtotal
 distibutorcut = gross * .80
 netpay = gross - distibutorcut 
+print("Name of the movie:", movie)
+print("Adult tickets sold:", adulttickets)
+print("Child tickets sold:", childtickets)
 print("Gross box office profit:", gross)
 print("Net box office profit", netpay)
 print("Distributor cut: ", distibutorcut)
